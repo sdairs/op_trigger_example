@@ -1,5 +1,0 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports._globalThis = void 0;
-exports._globalThis = typeof globalThis === "object" ? globalThis : global;
-//# sourceMappingURL=platform.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"styleAttributes.js","sourceRoot":"","sources":["../../../../src/v3/utils/styleAttributes.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAC3D,OAAO,EAAE,0BAA0B,EAAE,MAAM,kCAAkC,CAAC;AAE9E,MAAM,UAAU,mBAAmB,CAAC,SAAoB;IACtD,OAAO,iBAAiB,CAAC,SAAS,EAAE,0BAA0B,CAAC,eAAe,CAAC,CAAC;AAClF,CAAC"}
